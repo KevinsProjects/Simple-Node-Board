@@ -1,0 +1,7 @@
+@value smallBP, mediumBP, largeBP from 'SharedStyles/globalStyles';
+
+
+.sidebarContainer {
+  width: 250px;
+  margin-left: 10px;
+}

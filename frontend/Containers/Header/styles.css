@@ -1,0 +1,11 @@
+@value smallBP from 'SharedStyles/globalStyles.css';
+
+
+.headerTop {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @media smallBP { padding: 0px 10px; }
+}
